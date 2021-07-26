@@ -2,7 +2,7 @@
 
 Live Demo => https://typing-test-app.netlify.app/
 
-![Alt Text](https://gifyu.com/image/Ovdb)
+[Imgur](https://imgur.com/tOylMmZ)
 
 ## Project setup
 
