@@ -1,6 +1,6 @@
 <template>
   <div class="container jumbotron">
-    <h1 class="display-4">Speed Writing Competition</h1>
+    <h1 class="display-4">Typing Test</h1>
     <p class="lead">Improve your Typing Speed</p>
     <hr class="my-4" />
     <div v-if="isFinish" class="alert alert-primary">
