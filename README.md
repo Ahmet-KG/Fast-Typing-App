@@ -2,7 +2,7 @@
 
 Live Demo => https://typing-test-app.netlify.app/
 
-[Imgur](https://imgur.com/tOylMmZ)
+[gif](src\assets\Video_21-07-26_23-18-06.gif)
 
 ## Project setup
 
