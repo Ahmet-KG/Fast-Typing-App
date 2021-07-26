@@ -2,7 +2,7 @@
 
 Live Demo => https://typing-test-app.netlify.app/
 
-[gif](src\assets\Video_21-07-26_23-18-06.gif)
+![Alt Text](https://github.com/Ahmet-KG/Fast-Typing-App/blob/main/src/assets/Video_21-07-26_23-18-06.gif)
 
 ## Project setup
 
